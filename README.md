@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning advanced React patterns.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me: usama.0.vip@gmail.com
+- 👨‍💻 All of my datails are available at https://usamahassan.vercel.app/
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love exploring new technologies and enjoy solving complex coding challenges in my free time.
 
