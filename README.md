@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @iamus4ma
+- 👋 Hi, I’m @iamus4ma (deBUGinator)
 - 👀 I’m interested in web development, particularly using MERN Stack and modern UI frameworks.
-- 🌱 I’m currently learning advanced React patterns.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me: usama.0.vip@gmail.com
 - 👨‍💻 All of my details are available at [https://usamahassan.vercel.app/](https://usamahassan.vercel.app/)
