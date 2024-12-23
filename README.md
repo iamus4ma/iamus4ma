@@ -1,4 +1,4 @@
-- 👋 Hi, Usama Hassan (deBUGinator)
+- 👋 Hi, I’m Usama Hassan (deBUGinator)
 - 👀 I’m interested in web development, particularly using MERN Stack and modern UI frameworks.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me: usama.0.vip@gmail.com
